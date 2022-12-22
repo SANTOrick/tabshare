@@ -15,7 +15,7 @@
     "concurrent": "^0.3.2",
     "cors": "^2.8.5",
     "express": "^4.17.1",
-    "jsonwebtoken": "^7.4.3",
+    "jsonwebtoken": "^9.0.0",
     "morgan": "^1.9.1",
     "mysql": "file:mysql",
     "mysql2": "^1.6.5",
